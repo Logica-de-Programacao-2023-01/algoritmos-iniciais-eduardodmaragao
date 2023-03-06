@@ -1,0 +1,5 @@
+1 leia o número 1 e o número 2
+2 faça 1 + 2 para obter o resultado
+3 a soma do resultado deu 3
+4 fim
+
